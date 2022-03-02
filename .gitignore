@@ -1,0 +1,7 @@
+/.idea
+node_modules
+config
+test.db
+.babelrc
+.env
+yarn.lock
